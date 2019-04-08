@@ -23,7 +23,6 @@
 
             <xpath expr="//div[contains(@class, 'o_database_list')]/div[2]" position="replace">
                 <div class="text-center" t-if="not disable_footer">
-                    <!-- <a href="https://www.odoo.com" target="_blank">Powered by <span>Odoo</span></a> -->
                 </div>
             </xpath>
 
